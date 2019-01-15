@@ -1,3 +1,9 @@
+Fork Description
+================
+
+The purpose of this fork is to have the projects I need target to .NET Framework 4.7.2 only, because I want to introduce Dependency Injection to our Web Form projects. But currently for some reason like [Standard #542](https://github.com/dotnet/standard/issues/542), it's not as easy as it should be.
+
+
 .NET Extensions
 ===============
 
